@@ -1,0 +1,2 @@
+# Disaster-Response-Optimization-with-GIS-Improving-Evacuation-Efficiency-in-South-Carolina
+This project leverages geospatial analysis using ArcGIS Pro and ArcGIS Online to identify areas with insufficient access to healthcare services in a specific region. The primary goal was to develop interactive maps to visualize areas of need and support resource redistribution to improve healthcare coverage.
